@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tic Tac Toe LLD Challenge 🎮
 
 Welcome to the Tic Tac Toe Low-Level Design repository! 🌟
@@ -20,3 +21,7 @@ This project aims to implement the classic game of Tic Tac Toe with a focus on c
 5. Follow the prompts to make your moves.
 
 Happy gaming! 🎉
+=======
+# LLD-Challenge---Tic-Tac-Toe
+Tic Tac Toe LLD Implementation in Java
+>>>>>>> b41763e51d3ff225254d4685bdbf289f6f6fa0b3
